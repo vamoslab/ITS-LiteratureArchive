@@ -9,7 +9,7 @@ The repository is structured into multiple databanks, each focusing on key resea
 
 1. **Traffic Data Imputation**  
    Methods and models addressing missing data in traffic datasets, including deep learning approaches, statistical techniques, and hybrid frameworks.  
-   - [Traffic Data Imputation Literature Archive](https://github.com/vamoslab/ITS-LiteratureArchive/blob/main/traffic_data_imputation_literature_archive) 
+   - [Traffic Data Imputation Literature Archive](https://github.com/vamoslab/ITS-LiteratureArchive/blob/main/traffic_data_imputation_literature_archive.md) 
 
 ---
 
