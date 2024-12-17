@@ -1,5 +1,6 @@
 # Traffic Data Imputation - Literature Archive
 
+This is a resource hub for traffic data imputation literature. We will time to time update this repository with the latest articles. 
 
 
 |   No | Literature Name                                                                                                                                                   | Model Name   |   Year | DOI                                                       | Github                                                |
